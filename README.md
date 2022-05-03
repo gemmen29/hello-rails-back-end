@@ -28,7 +28,7 @@ To get a local copy up and running follow these simple example steps.
   > an APP Password for this specific application. If you want more information about this, GOOGLE IT.
 - Execute `rails db:create` to create the database.
 - Execute `rails db:seed` to put the five different messages in greeting table.
-- Run `rails s` to run the application.
+- Run `rails s` to run the application on port `3000`.
 
 ## Tests
 
